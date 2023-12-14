@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/melanie/static/css/main.9290e4c8.css",
-    "main.js": "/melanie/static/js/main.bb1aeca5.js",
+    "main.css": "/melanie/static/css/main.2e3dc350.css",
+    "main.js": "/melanie/static/js/main.cb12ca6b.js",
     "static/media/bleeh.jpg": "/melanie/static/media/bleeh.cf5130ec0bb72b480e22.jpg",
     "static/media/mel1.jpg": "/melanie/static/media/mel1.c7153c1fd0d6f12f42f1.jpg",
     "static/media/mel2.jpg": "/melanie/static/media/mel2.808a95060108a6657d6c.jpg",
     "static/media/mel3.jpg": "/melanie/static/media/mel3.7938742d9351dfb8e18c.jpg",
     "index.html": "/melanie/index.html",
-    "main.9290e4c8.css.map": "/melanie/static/css/main.9290e4c8.css.map",
-    "main.bb1aeca5.js.map": "/melanie/static/js/main.bb1aeca5.js.map"
+    "main.2e3dc350.css.map": "/melanie/static/css/main.2e3dc350.css.map",
+    "main.cb12ca6b.js.map": "/melanie/static/js/main.cb12ca6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.9290e4c8.css",
-    "static/js/main.bb1aeca5.js"
+    "static/css/main.2e3dc350.css",
+    "static/js/main.cb12ca6b.js"
   ]
 }
