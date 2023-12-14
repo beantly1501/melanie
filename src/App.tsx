@@ -43,7 +43,7 @@ function App() {
   }, []);
 
   return (
-    <div className="h-screen w-screen flex flex-col justify-center items-center bg-bleh-cat bg-cover relative">
+    <div className="h-screen w-screen flex flex-col justify-center items-center bg-bleh-cat md:bg-cover bg-contain relative">
       <img src={mel2} alt="mel2" className="absolute md:left-[80%] left-[60%] top-[20%] md:w-52 w-32" />
       <img src={mel3} alt="mel3" className="absolute left-[50%] top-[60%] md:w-52 w-32" />
       <img src={mel1} alt="mel1" className="absolute left-[10%] top-[20%] md:w-52 w-32" />
